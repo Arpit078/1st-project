@@ -1,5 +1,5 @@
 hey there ! 
-we are newbies at coding and are just starting up with a pygame platformer
+we are newbies at coding and are just starting up with a pygame rpg
 our team includes : 
 arpit : https://github.com/Arpit078
 varun : https://github.com/VarunK2603
